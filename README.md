@@ -18,9 +18,10 @@ I'm currently working with MicroSoft Visual Foxpro 9
 	-->
   <a href="https://github.com/DanielCarlos231">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielCarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarlos231&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarlos231&layout=compact&langs_count=7&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+	  
 </div>
-
+	  
 <div align="center"> 
 	<h3>🧰 Languages an tools</h3>	
 	<div align="center" style="display: inline_block"><br>
