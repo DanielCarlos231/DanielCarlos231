@@ -8,9 +8,9 @@ I'm currently working with MicroSoft Visual Foxpro 9
 
 ##
 
-<div>
-<img height="175em" width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielCarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="175em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danielcarlos231&langs_count=10&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+<div aling = "center">
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielCarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danielcarlos231&langs_count=10&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
 	  
 <div align="center"> 
