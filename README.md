@@ -21,7 +21,7 @@ I'm currently working with MicroSoft Visual Foxpro 9
 	<!--	
 	  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarlos231&layout=compact&langs_count=7&theme=radical"/>
 	  -->
-	   <img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danielcarlos231&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical"/>
+	   <img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danielcarlos231&langs_count=10&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
 	  
 <div align="center"> 
