@@ -15,8 +15,9 @@ I'm currently working with MicroSoft Visual Foxpro 9
 		<img src="header.svg" width="70%" height="20%">
 	</a>
 	<br>
-	-->
-  <a href="https://github.com/DanielCarlos231">
+	<a href="https://github.com/DanielCarlos231">
+ 	-->
+  
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielCarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 	<!--	
 	  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarlos231&layout=compact&langs_count=7&theme=radical"/>
