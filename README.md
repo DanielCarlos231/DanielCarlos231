@@ -9,7 +9,7 @@ I'm currently working with MicroSoft Visual Foxpro 9
 ##
 
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
-	<img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielCarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+	<img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielCarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 	<img height="180em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danielcarlos231&langs_count=10&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
 	  
