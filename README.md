@@ -7,7 +7,6 @@ I'm a Front-End and Back-End Developer
 I'm currently working with MicroSoft Visual Foxpro 9
 
 ##
-
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
 	<img height="200em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=danielcarlos231&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 	<img height="200em" width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danielcarlos231&langs_count=10&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
@@ -28,7 +27,8 @@ I'm currently working with MicroSoft Visual Foxpro 9
 </div>
 
 <b></b>
-##	
+##
+
 <b></b>	
 <!-- Visitor Caount --> 
 <!-- style 01 -->   	   
