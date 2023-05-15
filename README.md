@@ -21,7 +21,8 @@ I'm currently working with MicroSoft Visual Foxpro 9
 	  <img align="center" alt="Daniel-JavaScript" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/javascript.svg">
 	  <img align="center" alt="Daniel-HTML5" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/html5.svg">
 	  <img align="center" alt="Daniel-Css3" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/css3-original.svg">
-	  <img align="center" alt="Daniel-React-Native" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/react-native.svg">
+	<img align="center" alt="Daniel--Electron" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/electron.svg">  
+	<img align="center" alt="Daniel-React-Native" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/react-native.svg">
 	  <img align="center" alt="Daniel-NodeJs" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/nodeJs.svg">
 	 </div>
 </div>
