@@ -13,7 +13,7 @@ I'm currently working with MicroSoft Visual Foxpro 9
 </div>
 	  
 <div align="center"> 
-	<h3>🧰 Languages an tools</h3>	
+	<h3>🧰 Languages and tools</h3>	
 	<div align="center" style="display: inline_block"><br>
 	  <img align="center" alt="Daniel-FoxPro" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/FoxPro.svg">
 	  <img align="center" alt="Daniel-Java" height="30" width="40" src="https://github.com/DanielCarlos231/DanielCarlos231/blob/main/Icons/java-original.svg">
